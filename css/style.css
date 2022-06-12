@@ -14,7 +14,6 @@ section {
     background-image: url(../image/background.png);
     height: 800px;
 }
-
-header {
-    border: 2px solid white;
+header{
+    border: 2px solid;
 }
