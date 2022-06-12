@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+}
+
+body {
+    background-color: #0D0D0D;
+    color: #F5FBF2;
+}
+
+section {
+    background-image: url(../image/background.png);
+    height: 800px;
+}
+
+header {
+    border: 2px solid white;
+}
