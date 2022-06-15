@@ -28,10 +28,13 @@ header {
     max-width: 1200px;
     margin: 0 auto;
     padding: 20px 0px;
-    background-color: #F5FBF2;
 }
 
 .list-flex {
     display: flex;
     gap: 40px;
+}
+
+.menu {
+    background-color: #0D0D0D;
 }
