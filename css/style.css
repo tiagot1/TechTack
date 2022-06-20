@@ -13,6 +13,7 @@ body {
 .header {
     display: flex;
     justify-content: center;
+    margin-top: 20px;
 }
 
 
@@ -20,7 +21,7 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    width: 1200px;
+    width: 100%;
     max-width: 1200px;
 }
 
@@ -34,4 +35,38 @@ body {
     padding: 15px 30px;
     color: #ffffff;
     border-radius: 6px;
+}
+
+.boxTitulo {
+    width: 600px;
+}
+
+.imagemFace {
+    width: 600px;
+}
+
+.imagemFace img {
+    width: 100%;
+    display: block;
+}
+
+.titulo {
+    font-size: 6rem;
+    letter-spacing: 1.6px;
+}
+
+.sectionOne {
+    display: flex;
+    justify-content: center;
+}
+
+.divSection {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 1200px;
+    margin-top: 40px;
+}
+
+.listImg1 {
+    display: flex;
 }
